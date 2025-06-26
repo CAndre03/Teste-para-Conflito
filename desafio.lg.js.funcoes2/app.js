@@ -2,7 +2,7 @@
 function ImcPessoal (altura, peso) {
    return peso / (altura * altura);
 }
-let imc = parseInt(ImcPessoal(1.80 , 57));
+let imc = parseInt(ImcPessoal(1.97 , 68));
 console.log(imc);
 
 // Segundo desáfio, fatorial (Verifica mais fundo depois): 
